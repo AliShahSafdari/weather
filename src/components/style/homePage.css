@@ -1,0 +1,26 @@
+.header {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+}
+.header-content{
+    display: flex;
+    flex-direction: row;
+    background-color: antiquewhite;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2%;
+}
+.header-filter{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: aqua;
+    align-items: center;
+}
+.icons-img{
+    width: 1em;
+    height: 1em;
+    color: blue;
+}
+
