@@ -5,7 +5,7 @@ import { useParams } from 'react-router-dom';
 const CityDetails = () => {
   const { cityId } = useParams();
   const weatherData = useSelector((state) => state.weathers.weatherData);
-  const city = weatherData.find((city) => city.id === parseInt(cityId));
+  const city = weatherData.find((city) => city.id === parseInt(cityId, 10));
 
   return (
     <>
