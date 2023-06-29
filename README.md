@@ -69,13 +69,13 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](comin soon)
+- [Live Demo Link](https://weather-1glk.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🎥 Video Link <a name="live-demo"></a>
--[Video describing the project](comin soon)
+-[Video describing the project](https://loom.com/share/b916f62ae3fd458d897f48306b386391?sid=b6d96a85-42a2-40bf-bd5c-445a99c5f3c7)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
