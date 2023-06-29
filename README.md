@@ -150,7 +150,7 @@ Feel free to check the [issues page](../../issues/).
 
 If you like this project just give it a star ⭐️ .
 
-Everybody is welcome to suggest changes in Weather project .
+Everybody is welcome to suggest changes in Current Weather project.
 
 In order to do it, fork this repository, create a new branch and open a Pull Request from your branch
 
