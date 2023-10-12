@@ -126,7 +126,7 @@ Open index.html using live server extension.
 
 👤 Alishah Safdari
 
-- GitHub: [@AliShahSafdari](https://github.com/Unleashedicon?tab=repositories)
+- GitHub: [@AliShahSafdari](https://github.com/AliShahSafdari)
 - Twitter: [@AlishahSafdari](https://twitter.com/AlishahSafdari)
 - LinkedIn: [@alishahsafdari](https://www.linkedin.com/in/alishahsafdari/)
 
